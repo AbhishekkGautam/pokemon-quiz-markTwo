@@ -1,0 +1,24 @@
+{
+  "name": "pokemon-quiz-markTwo",
+  "version": "1.0.0",
+  "description": "This quiz game is a CLI based app created using JavaScript & used repl.it to host it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekkGautam/pokemon-quiz-markTwo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekkGautam/pokemon-quiz-markTwo/issues"
+  },
+  "homepage": "https://github.com/AbhishekkGautam/pokemon-quiz-markTwo#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
